@@ -11,7 +11,7 @@
 * <a href="#cont-ref">Contribution Guidlines</a>
 * <a href="#tests-ref">Tests Instructions</a>
 * <a href="#license-ref">License</a>
-* <a href='#questions-ref'>Questions</a>
+
 
 ---
 
@@ -29,7 +29,7 @@ asdf
 
 ## <span id="cont-ref">Contribution Guidlines</span>
 
-asdf 
+sadf 
 
 <br>
 
@@ -43,18 +43,14 @@ asdf
 
 This is a proprietary application. Copying, modifying, or otherwise distributing this software is prohibited.
 
-  <br>
-
-## <span id='questions-ref'>Questions?</span>
-
----
+  
 
 <div style = "display: flex; justify-content: space-between;">
-    <div style = "display: block;">
+    <div style = "display: none;">
       <h3 style = "display: inline;">Github: </h3>
-      <a style = "display: inline;" href="https://www.github.com/nikpratr">nikpratr</a>
+      <a style = "display: inline;" href="https://www.github.com/undefined">undefined</a>
     </div>
-    <h3 style = "display: block;">nikpratr</h3>
+    <h3 style = "display: none;">undefined</h3>
 </div>
 
 
